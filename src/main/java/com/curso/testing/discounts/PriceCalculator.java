@@ -1,5 +1,8 @@
 package com.curso.testing.discounts;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * System:                 CleanBnB
  * Name:                   PriceCalculator
